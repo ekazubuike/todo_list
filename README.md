@@ -1,0 +1,1 @@
+This is a to-do list project that leverages CSS for styling and JavaScript and JQuery for user interaction.
